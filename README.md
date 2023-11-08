@@ -3,8 +3,11 @@
 <h1>i love python (hate)🤷‍♂️<h1/>
   
 #
+<div align="middle">
+  <a>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1164795007291641886)](https://discord.com/users/1164795007291641886)
+</a>
 
 #
 
