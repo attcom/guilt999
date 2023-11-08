@@ -8,7 +8,7 @@
   
 #
 
-[![](https://komarev.com/ghpvc/?username=devembrace&style=plastic&color=blueviolet)](https://github.com/devembrace)
+[![(https://komarev.com/ghpvc/?username=devembrace&style=plastic&color=blueviolet)](https://github.com/devembrace)
 
 #
 
