@@ -1,14 +1,11 @@
 <div align="center">
 
 <h1>i love python (hate)🤷‍♂️<h1/>
-  
+
 #
-<div align="middle">
-  <a>
 
-[[![Discord Presence](https://lanyard.cnrad.dev/api/1164795007291641886)](https://discord.com/users/1164795007291641886)](https://discord.c99.nl/widget/theme-4/1164795007291641886.png)
-</a>
-
+[![](https://discord.c99.nl/widget/theme-4/1164795007291641886.png)
+  
 #
 
 [![](https://komarev.com/ghpvc/?username=devembrace&style=plastic&color=blueviolet)](https://github.com/devembrace)
