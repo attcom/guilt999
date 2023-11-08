@@ -6,7 +6,7 @@
 <div align="middle">
   <a>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1164795007291641886)](https://discord.com/users/1164795007291641886)
+[[![Discord Presence](https://lanyard.cnrad.dev/api/1164795007291641886)](https://discord.com/users/1164795007291641886)](https://discord.c99.nl/widget/theme-4/1164795007291641886.png)
 </a>
 
 #
