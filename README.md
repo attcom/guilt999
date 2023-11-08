@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>i skid stuff 🤷‍♂️<h1/>
+<h1>i love python (hate)🤷‍♂️<h1/>
   
 #
 
