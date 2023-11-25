@@ -1,9 +1,6 @@
 <div align="center">
 
 
-
-
-
 ![image](https://discord.c99.nl/widget/theme-4/1164795007291641886.png)
   
 #
