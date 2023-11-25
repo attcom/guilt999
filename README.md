@@ -1,5 +1,7 @@
 <div align="center">
 
+[![wakatime](https://wakatime.com/badge/github/guilt999/guilt999.svg)](https://wakatime.com/badge/github/guilt999/guilt999)
+
 
 <h1>hi there.<h1>
 
