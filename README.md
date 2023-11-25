@@ -1,6 +1,6 @@
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/github/guilt999/guilt999.svg)](https://wakatime.com/badge/github/guilt999/guilt999)
+<a href="https://wakatime.com/badge/github/guilt999/guilt999"><img src="https://wakatime.com/badge/github/guilt999/guilt999.svg" alt="wakatime"></a>
 
 
 <h1>hi there.<h1>
