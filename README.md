@@ -1,11 +1,13 @@
 <div align="center">
 
 
-![image](https://discord.c99.nl/widget/theme-4/1164795007291641886.png)
+[![](https://komarev.com/ghpvc/?username=guilt999&style=plastic&color=grey)](https://github.com/guilt999)
+
+
   
 #
 
-[![](https://komarev.com/ghpvc/?username=guilt999&style=plastic&color=blueviolet)](https://github.com/guilt999)
+![image](https://discord.c99.nl/widget/theme-4/1164795007291641886.png)
 
 #
 
