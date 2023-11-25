@@ -3,7 +3,9 @@
 
 [![](https://komarev.com/ghpvc/?username=guilt999&style=plastic&color=grey)](https://github.com/guilt999)
 
+#
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guilt999&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
 #
 
