@@ -7,6 +7,11 @@
 
 [![](https://komarev.com/ghpvc/?username=guilt999&style=plastic&color=grey)](https://github.com/guilt999)
 
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31q4dkmsjjbrqvndriosuuckfzru&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true&bar_color=ffffff)](https://spotify-github-profile.vercel.app/api/view?uid=31q4dkmsjjbrqvndriosuuckfzru&redirect=true)
+
+
 #
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guilt999&theme=black&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
