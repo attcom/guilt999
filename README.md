@@ -16,11 +16,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guilt999&theme=black&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
-#
 
-![image]([https://discord.c99.nl/widget/theme-4/1186084988286947430.png])
-
-#
 
 
 <h3><i>"That's not a bug it's a configuration issue"</i></h3>
