@@ -18,7 +18,7 @@
   
 #
 
-![image](https://discord.c99.nl/widget/theme-4/1164795007291641886.png)
+![image]([https://discord.c99.nl/widget/theme-4/1186084988286947430.png])
 
 #
 
